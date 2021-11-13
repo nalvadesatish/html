@@ -1,4 +1,4 @@
-# html
+<h1>Example of Embed code</h1>
 <!DOCTYPE html>
 <html lang="en">
   <head>
